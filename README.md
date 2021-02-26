@@ -16,7 +16,7 @@ Transcribed MIDI files of GiantMIDI-Piano can be viewed at [midis_preview](midis
 Install PyTorch (>=1.4) following https://pytorch.org/.
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Download audio recordings
